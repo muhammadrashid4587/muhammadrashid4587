@@ -1,15 +1,15 @@
 <p align="center">
-<img src="./assets/banner.svg" alt="Muhammad Rashid — Cityscape Banner" width="100%"/>
+<img src="./assets/banner.svg" alt="Muhammad Rashid — Neon Cityscape" width="100%"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI+systems+%26+cyber-defense+tools;Founder+%40+The+Foundry;Organizing+Dragonhacks+2026;Full-stack+engineer+%7C+Low-level+to+cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=%24+building+autonomous+ai+systems...;%24+founder+%40+the+foundry;%24+organizing+dragonhacks+2026;%24+full-stack+%7C+low-level+to+cloud;%24+shipping+code+that+matters" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/muhammadrashid4587"><img src="https://img.shields.io/badge/LinkedIn-muhammadrashid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/muhammadrashid4587"><img src="https://img.shields.io/badge/GitHub-muhammadrashid4587-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:muhammadrashid4587@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/muhammadrashid4587"><img src="https://img.shields.io/badge/LINKEDIN-muhammadrashid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/muhammadrashid4587"><img src="https://img.shields.io/badge/GITHUB-muhammadrashid4587-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="mailto:muhammadrashid4587@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
@@ -51,6 +51,7 @@
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 **Backend**
@@ -75,21 +76,22 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </td>
 <td width="45%" valign="top">
 
 ### 📈 At a Glance
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadrashid4587&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&icon_color=58A6FF&title_color=58A6FF&include_all_commits=true&rank_icon=percentile" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadrashid4587&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&icon_color=00f0ff&title_color=00f0ff&include_all_commits=true&rank_icon=percentile" width="100%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=muhammadrashid4587&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=muhammadrashid4587&theme=github-dark-blue&hide_border=true&border_radius=10&ring=00f0ff&fire=7c3aed&currStreakLabel=00f0ff&sideLabels=8b949e" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadrashid4587&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=58A6FF" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadrashid4587&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=00f0ff" width="100%"/>
 
 </td>
 </tr>
@@ -108,27 +110,27 @@
 <br/>
 
 <a href="https://github.com/muhammadrashid4587/projectmanticore">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=projectmanticore&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=projectmanticore&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/muhammadrashid4587/ARES">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=ARES&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=ARES&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 
 <a href="https://github.com/muhammadrashid4587/DroneDash">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=DroneDash&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=DroneDash&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/muhammadrashid4587/foundry">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=foundry&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=foundry&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 
 <a href="https://github.com/muhammadrashid4587/uplyst">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=uplyst&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=uplyst&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/muhammadrashid4587/Dragonhacks2026">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=Dragonhacks2026&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=Dragonhacks2026&theme=github_dark&hide_border=true&border_radius=12&icon_color=00f0ff&title_color=00f0ff&show_owner=true" width="49%"/>
 </a>
 
 </div>
@@ -137,16 +139,16 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-<!-- ═══════════════════════════ FOOTER STATS ═══════════════════════════ -->
+<!-- ═══════════════════════════ OPEN SOURCE + FOOTER ═══════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
 <p>
-<img src="https://img.shields.io/github/followers/muhammadrashid4587?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/muhammadrashid4587?label=Followers&style=for-the-badge&color=00f0ff&labelColor=0D1117&logo=github&logoColor=white" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/muhammadrashid4587?affiliations=OWNER&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Stars&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/muhammadrashid4587?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=0D1117&label=Stars&logo=github&logoColor=white" alt="Stars"/>
 </p>
 
 <br/>
@@ -158,6 +160,10 @@
 </picture>
 </a>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadrashid4587&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="80%"/>
+
 </div>
 
 <br/>
@@ -165,5 +171,9 @@
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020614,30:0a0f1e,50:7c3aed,70:0a0f1e,100:020614&height=100&section=footer" width="100%"/>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=muhammadrashid4587&style=flat-square&color=00f0ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
