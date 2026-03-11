@@ -1,9 +1,9 @@
 <p align="center">
-<img src="./assets/banner.svg" alt="Muhammad Rashid" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Rashid&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Builder%20%7C%20Engineer%20%7C%20Founder&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=28&lines=Building+AI+systems+and+shipping+product;Founder+%40+The+Foundry;Organizing+Dragonhacks+2026;Full-stack+engineer+%E2%80%94+C+to+cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=28&lines=Building+AI+systems+and+shipping+product;Founder+%40+The+Foundry;Organizing+Dragonhacks+2026;Full-stack+engineer+%E2%80%94+C+to+cloud;Open+source+contributor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,15 @@
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<!-- ═══════════════════════ 3D CONTRIBUTION GRAPH ═══════════════════════ -->
+
+<p align="center">
+<a href="https://github.com/muhammadrashid4587">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrashid4587&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+</a>
+</p>
+
+<br/>
 
 <!-- ═══════════════════════ ABOUT + STATS ═══════════════════════ -->
 
@@ -32,6 +40,7 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 - Organizing **[Dragonhacks 2026](https://github.com/muhammadrashid4587/Dragonhacks2026)** — a hackathon for the next generation
 - Studying **Computer Science** — systems, AI/ML, and security
 - Building **[MANTICORE](https://github.com/muhammadrashid4587/projectmanticore)** — AI-driven cyber-defense
+- Contributing to **open source** across AI agent frameworks, dev tools, and more
 
 <br/>
 
@@ -39,43 +48,22 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=ts,python,c,go,kotlin,js&theme=dark" height="32"/>
 
 **AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="32"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
 
-**Backend**
+**Backend & Frontend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-**Mobile**
-<br/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,react,nextjs,tailwind&theme=dark" height="32"/>
 
 **Infrastructure**
 <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" height="32"/>
 
 </td>
 <td width="45%" valign="top">
@@ -97,8 +85,6 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 </table>
 
 <br/>
-
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 <!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
 
@@ -136,7 +122,25 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<!-- ═══════════════════════ RECENT OSS CONTRIBUTIONS ═══════════════════════ -->
+
+<div align="center">
+
+### Recent Open Source Contributions
+
+| Repo | What I Did | PR |
+|------|-----------|-----|
+| `RetricSu/fiber-pay` | Replaced blocking `appendFileSync` with async `WriteStream` | [#75](https://github.com/RetricSu/fiber-pay/pull/75) |
+| `Gustav-Proxi/agentreplay` | Added single-node + stats API endpoints with tests | [#17](https://github.com/Gustav-Proxi/agentreplay/pull/17) |
+| `wook95/ngx-recharts` | Fixed shape components + unified polar angle math | [#16](https://github.com/wook95/ngx-recharts/pull/16) |
+| `aden-hive/hive` | Added graph validation for edge IDs, self-loops, conditions | [#6154](https://github.com/aden-hive/hive/pull/6154) |
+| `ioflux-org/studio-json-schema` | Enabled YAML node-click highlighting in Monaco editor | [#176](https://github.com/ioflux-org/studio-json-schema/pull/176) |
+| `msutara/config-manager-web` | Fixed hidden job history on fresh installs | [#42](https://github.com/msutara/config-manager-web/pull/42) |
+| `Vishal202-rgb/Enigma-Website` | Fixed image layout and responsive alignment | [#2](https://github.com/Vishal202-rgb/Enigma-Website/pull/2) |
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
@@ -164,5 +168,5 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020614,50:0c1220,100:020614&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 </p>
