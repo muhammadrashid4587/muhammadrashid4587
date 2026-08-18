@@ -36,10 +36,9 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 
 **Currently:**
 
-- Founder of **[The Foundry](https://github.com/muhammadrashid4587/foundry)** — empowering builders and young founders
-- Organizing **[Dragonhacks 2026](https://github.com/muhammadrashid4587/Dragonhacks2026)** — a hackathon for the next generation
+- Founder of **The Foundry** — empowering builders and young founders
+- Organizing **Dragonhacks 2026** — a hackathon for the next generation
 - Studying **Computer Science** — systems, AI/ML, and security
-- Building **[MANTICORE](https://github.com/muhammadrashid4587/projectmanticore)** — AI-driven cyber-defense
 - Contributing to **open source** across AI agent frameworks, dev tools, and more
 
 <br/>
@@ -94,28 +93,28 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 
 <br/>
 
-<a href="https://github.com/muhammadrashid4587/projectmanticore">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=projectmanticore&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/nexus-terminal">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=nexus-terminal&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 &nbsp;
-<a href="https://github.com/muhammadrashid4587/ARES">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=ARES&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/ragbench">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=ragbench&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 
-<a href="https://github.com/muhammadrashid4587/DroneDash">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=DroneDash&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/mcp-registry">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=mcp-registry&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 &nbsp;
-<a href="https://github.com/muhammadrashid4587/foundry">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=foundry&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/rl-gymnasium">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=rl-gymnasium&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 
-<a href="https://github.com/muhammadrashid4587/uplyst">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=uplyst&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/transformer-from-scratch">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=transformer-from-scratch&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 &nbsp;
-<a href="https://github.com/muhammadrashid4587/Dragonhacks2026">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=Dragonhacks2026&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
+<a href="https://github.com/muhammadrashid4587/cluely">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhammadrashid4587&repo=cluely&theme=github_dark&hide_border=true&border_radius=12&icon_color=58A6FF&title_color=58A6FF&show_owner=true" width="49%"/>
 </a>
 
 </div>
@@ -126,17 +125,16 @@ I build software at the intersection of **AI, cybersecurity, and real-world syst
 
 <div align="center">
 
-### Recent Open Source Contributions
+### Open Source Pull Requests
 
-| Repo | What I Did | PR |
-|------|-----------|-----|
-| `RetricSu/fiber-pay` | Replaced blocking `appendFileSync` with async `WriteStream` | [#75](https://github.com/RetricSu/fiber-pay/pull/75) |
-| `Gustav-Proxi/agentreplay` | Added single-node + stats API endpoints with tests | [#17](https://github.com/Gustav-Proxi/agentreplay/pull/17) |
-| `wook95/ngx-recharts` | Fixed shape components + unified polar angle math | [#16](https://github.com/wook95/ngx-recharts/pull/16) |
-| `aden-hive/hive` | Added graph validation for edge IDs, self-loops, conditions | [#6154](https://github.com/aden-hive/hive/pull/6154) |
-| `ioflux-org/studio-json-schema` | Enabled YAML node-click highlighting in Monaco editor | [#176](https://github.com/ioflux-org/studio-json-schema/pull/176) |
-| `msutara/config-manager-web` | Fixed hidden job history on fresh installs | [#42](https://github.com/msutara/config-manager-web/pull/42) |
-| `Vishal202-rgb/Enigma-Website` | Fixed image layout and responsive alignment | [#2](https://github.com/Vishal202-rgb/Enigma-Website/pull/2) |
+| Repo | What I Did | PR | Status |
+|------|-----------|-----|--------|
+| `aden-hive/hive` | Added graph validation for edge IDs, self-loops, conditions | [#6154](https://github.com/aden-hive/hive/pull/6154) | Closed |
+| `Gustav-Proxi/agentreplay` | Added single-node + stats API endpoints with tests | [#17](https://github.com/Gustav-Proxi/agentreplay/pull/17) | Open |
+| `wook95/ngx-recharts` | Fixed shape components + unified polar angle math | [#16](https://github.com/wook95/ngx-recharts/pull/16) | Closed |
+| `ioflux-org/studio-json-schema` | Enabled YAML node-click highlighting in Monaco editor | [#176](https://github.com/ioflux-org/studio-json-schema/pull/176) | Closed |
+| `RetricSu/fiber-pay` | Replaced blocking `appendFileSync` with async `WriteStream` | [#75](https://github.com/RetricSu/fiber-pay/pull/75) | Closed |
+| `msutara/config-manager-web` | Fixed hidden job history on fresh installs | [#42](https://github.com/msutara/config-manager-web/pull/42) | Closed |
 
 </div>
 
