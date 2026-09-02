@@ -1,0 +1,8 @@
+# Local Claude prompt — do not publish on the profile repo
+claude-portfolio-prompt.md
+
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.python-version
