@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/hud-banner.png" alt="Muhammad Rashid — systems engineer HUD" width="100%"/>
+<img src="./assets/banner.svg" alt="Muhammad Rashid" width="100%"/>
 </p>
 
 <p align="center">
@@ -36,6 +36,14 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadrashid4587&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 </p>
+
+## // 3D CONTRIBUTIONS — LIVE, BUILT FROM REAL DATA
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph, generated from real GitHub activity"/>
+</p>
+
+Not a picture. A GitHub Action rebuilds this from my actual commits every day, and on every push.
 
 ## // ACTIVE BUILDS
 
