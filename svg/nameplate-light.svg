@@ -4,6 +4,6 @@
 @media (prefers-reduced-motion: reduce){.wave{animation:none;stroke-dashoffset:0}}
 </style>
 <text x="0" y="58" font-family="Georgia,'Times New Roman',Times,serif" font-size="54" fill="#16130F">Muhammad <tspan font-style="italic" fill="#E4572E">Rashid</tspan></text>
-<text x="2" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#6E6A5E">DREXEL CS &#8217;27 &#183; PHILADELPHIA &#183; OPT FROM JUN 2027</text>
+<text x="2" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2.2" fill="#6E6A5E">DREXEL CS &#8217;27 &#183; PHILADELPHIA &#183; OPT FROM JUN 2027</text>
 <path class="wave" d="M0 12 L60 12 L72 4 L84 20 L96 12 L150 12 L162 2 L174 22 L186 12 L260 12 L272 6 L284 18 L296 12 L360 12 L372 4 L384 20 L396 12 L470 12 L482 2 L494 22 L506 12 L580 12 L592 6 L604 18 L616 12 L700 12 L712 4 L724 20 L736 12 L800 12" transform="translate(0,104)" fill="none" stroke="#E4572E" stroke-width="1.5"/>
 <line x1="0" y1="132" x2="800" y2="132" stroke="#D8D2C4" stroke-width="1"/></svg>
