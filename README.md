@@ -1,130 +1,119 @@
-<p align="center">
-<img src="./assets/banner.svg" alt="Muhammad Rashid" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="svg/nameplate-light.svg">
+  <img src="svg/nameplate-dark.svg" alt="Muhammad Rashid" width="100%">
+</picture>
 
-<p align="center">
-<a href="https://linkedin.com/in/muhammad-rashid3662"><img src="https://img.shields.io/badge/LinkedIn-muhammad--rashid3662-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://www.muhammadrashid.space"><img src="https://img.shields.io/badge/Website-muhammadrashid.space-0D1117?style=flat-square&logo=googlechrome&logoColor=00D4FF" alt="Website"/></a>&nbsp;
-<a href="mailto:muhdrashid3662@gmail.com"><img src="https://img.shields.io/badge/Email-muhdrashid3662@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00D4FF" alt="Email"/></a>
-</p>
+<a href="https://muhammadrashid4587.github.io/rw-tracker-3d/">
+  <video src="assets/hero-loop.mp4" width="100%" autoplay loop muted playsinline></video>
+</a>
 
-```
-// SYSTEM STATUS
-> OPERATOR      : MUHAMMAD RASHID
-> ROLE          : SYSTEMS ENGINEER — DREXEL CS '27
-> LOCATION      : PHILADELPHIA, PA
-> AVAILABILITY  : OPEN — 2027 NEW GRAD ROLES, US-WIDE
-> WORK AUTH     : OPT FROM JUN 2027
-> CURRENT OPS   : REDIS CLONE IN C // RAFT KV IN PYTHON // DAILY COMMITS
-```
+<p><a href="https://muhammadrashid4587.github.io/rw-tracker-3d/">Open in 3D</a> — the RW Tracker wearable, interactive.</p>
 
-## // TELEMETRY
+I build systems that hold up under real load — a Redis clone in C, a Raft key-value store in Python, and a wrist-worn sensor pod streaming at ~200 Hz.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadrashid4587&show_icons=true&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&bg_color=0D1117&hide_border=true&count_private=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrashid4587&layout=compact&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true" height="170" alt="Top languages"/>
-</p>
+[Portfolio](https://www.muhammadrashid.space) · [LinkedIn](https://linkedin.com/in/muhammad-rashid3662) · [muhdrashid3662@gmail.com](mailto:muhdrashid3662@gmail.com)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=muhammadrashid4587&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="svg/header-projects-light.svg">
+  <img src="svg/header-projects-dark.svg" alt="Selected work" width="100%">
+</picture>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrashid4587&bg_color=0D1117&color=00D4FF&line=00D4FF&point=8B949E&area=true&hide_border=true" width="95%" alt="Activity graph"/>
-</p>
+<table>
+<tr>
+<td width="33%">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadrashid4587&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
-</p>
+### [cinder](https://github.com/muhammadrashid4587/cinder)
+Redis-compatible in-memory store in C. ~25k SET/s, ~34k GET/s, 30+ smoke tests, AOF restart test.
+`C · RESP · poll()`
 
-## // 3D CONTRIBUTIONS — LIVE, BUILT FROM REAL DATA
+</td>
+<td width="33%">
 
-<p align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph, generated from real GitHub activity"/>
-</p>
+### [raftkv](https://github.com/muhammadrashid4587/raftkv)
+Distributed key-value store with Raft consensus. 8/8 tests, 3-node failover verified, ~370 committed writes/s.
+`Python · Raft`
 
-Not a picture. A GitHub Action rebuilds this from my actual commits every day, and on every push.
+</td>
+<td width="33%">
 
-## // ACTIVE BUILDS
+### [RW Tracker](https://www.muhammadrashid.space)
+Wrist-worn sensor pod, Kotlin BLE app. ~200 Hz sensor data, under 50 ms latency. CCI Senior Design Honorable Mention, Sep 2025–Jun 2026.
+`Kotlin · BLE`
 
-### [cinder](https://github.com/muhammadrashid4587/cinder) — REDIS-CLONE // C
+</td>
+</tr>
+<tr>
+<td width="33%">
 
-```
-ARCH       : single-threaded poll() loop · RESP · chained hash table + TTLs
-             approximate LRU eviction · append-only log, fsync-always
-THROUGHPUT : ~25k SET/s · ~34k GET/s (sequential, dev VM)
-TESTS      : 30+ RESP smoke checks · AOF restart test — data survives SHUTDOWN
-STATUS     : LIVE — v0.1.0
-```
+### [mcp-schema-sentinel](https://github.com/muhammadrashid4587/mcp-schema-sentinel)
+Read-only MCP server, JSON-RPC 2.0 stdio from scratch. 165 tests, 31 bypass techniques blocked.
+`Python · MCP · SQLite`
 
-### [raftkv](https://github.com/muhammadrashid4587/raftkv) — DISTRIBUTED KV // RAFT // PYTHON
+</td>
+<td width="33%">
 
-```
-ARCH       : leader election, randomized timeouts · RequestVote / AppendEntries
-             durable fsynced log · leader-confirmed reads · follower redirects
-VERIFIED   : 3-node cluster — kill the leader, survivors re-elect, writes continue,
-             old leader rejoins and catches up
-TESTS      : 8/8 passing
-STATUS     : LIVE — v0.1.0
-```
+### [toolshield](https://github.com/muhammadrashid4587/toolshield)
+Guardrails for agent tool calls. 185 tests, precision 1.000 / recall 0.950.
+`Python · Agents`
 
-## // DEPLOYED
+</td>
+<td width="33%">
 
-```
-mcp-schema-sentinel  : read-only MCP server, JSON-RPC from scratch, SQL allowlist guard
-                       165 tests · 31 bypass techniques blocked · p50 0.16 ms/call
-aws-docforge         : S3 → SQS → Lambda → Bedrock pipeline, no AWS account needed
-                       PII redacted before the model call · 77 tests · SAM + Terraform
-toolshield           : guardrails between an agent deciding and acting
-                       185 tests · precision 1.000 / recall 0.950 · 79-doc corpus
-lab                  : daily practice that refuses to fake a commit
-                       34 tests · no contribution bots · date-spoofing blocked
-```
+### [blackbox](https://github.com/muhammadrashid4587/blackbox)
+Flight recorder for AI agents. Every tool call into a tamper-evident, hash-chained log you can verify, replay, and diff. Pure Python, stdlib only. 23 tests.
+`Python`
 
-## // FIELD RECORD
+</td>
+</tr>
+<tr>
+<td width="33%">
 
-```
-CSL BEHRING      : Project Mgmt Co-op, Plasma — Mar–Aug 2026
-                   122 requirements migrated Confluence → Excel · 174-item register
-TECHTUNES         : Full-Stack Dev — Jul 2025–Feb 2026
-                   React + FastAPI music platform · beta on Vercel · sub-100ms loads
-ZEN MUSIC GROUP   : Software Dev — Mar–Sep 2025
-                   async video pipeline · storage −60% · API errors −75% · Vertex AI Gemini
-BROWN BROS HARRIMAN: Enterprise Architecture Co-op — Apr–Sep 2024
-                   Python ETL · Azure OpenAI chatbot · 15+ hrs/week saved · manual work −50%
-```
+### [aws-docforge](https://github.com/muhammadrashid4587/aws-docforge)
+S3 → SQS → Lambda → Bedrock pipeline. PII redacted before the model call. 77 tests.
+`Python · AWS · Bedrock`
 
-## // TOOLING
+</td>
+<td width="33%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,ts,java,kotlin,js,react,nextjs,fastapi,flask,aws,azure,gcp,docker,git,postgres,tensorflow" alt="Tech stack"/>
-</p>
+### [lab](https://github.com/muhammadrashid4587/lab)
+Daily engineering practice. Real work only — no fake commits.
+`Python`
 
-## // OPEN SOURCE
+</td>
+<td width="33%">
 
-| REPO | CHANGE | PR | STATUS |
-|------|--------|-----|--------|
-| `aden-hive/hive` | Graph validation for edge IDs, self-loops, conditions | [#6154](https://github.com/aden-hive/hive/pull/6154) | Closed |
-| `Gustav-Proxi/agentreplay` | Single-node + stats API endpoints, with tests | [#17](https://github.com/Gustav-Proxi/agentreplay/pull/17) | Open |
-| `wook95/ngx-recharts` | Fixed shape components, unified polar angle math | [#16](https://github.com/wook95/ngx-recharts/pull/16) | Closed |
-| `ioflux-org/studio-json-schema` | YAML node-click highlighting in Monaco editor | [#176](https://github.com/ioflux-org/studio-json-schema/pull/176) | Closed |
-| `RetricSu/fiber-pay` | Replaced blocking `appendFileSync` with async `WriteStream` | [#75](https://github.com/RetricSu/fiber-pay/pull/75) | Closed |
-| `msutara/config-manager-web` | Fixed hidden job history on fresh installs | [#42](https://github.com/msutara/config-manager-web/pull/42) | Closed |
+### [GeneSight](https://github.com/muhammadrashid4587/GeneSight)
+XGBoost genomics classifier, 89% accuracy on 10,000+ samples. Philly CodeFest 2025 winner.
+`Python · XGBoost`
 
-## // SIDE SYSTEMS
+</td>
+</tr>
+</table>
 
-```
-CUREON        : founder — Philadelphia community, healthcare workers + engineers
-                speaking at CureHacks, Jan 9–10 2027
-DRAGONHACKS   : president, Drexel IEEE — 500 hackers, Jan 16–17 2027
-GENESIGHT     : Philly CodeFest 2025 winner — XGBoost genomics, 89% accuracy, 10k+ samples
-DRONEDASH     : OwlHacks 2025 winner — WebRTC + React + TS + FastAPI
-MORPH         : gesture-controlled robot — OpenCV + MediaPipe
-RW TRACKER    : Kotlin — ~200 Hz sensor data, <50 ms latency
-THE FOUNDRY   : co-founder — community for student builders and young founders
-```
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="svg/divider-light.svg">
+  <img src="svg/divider-dark.svg" alt="" width="100%">
+</picture>
 
-```
-// STATUS: OPEN TO 2027 NEW GRAD ROLES
-// CONTACT: muhdrashid3662@gmail.com
-```
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="svg/header-experience-light.svg">
+  <img src="svg/header-experience-dark.svg" alt="Experience and community" width="100%">
+</picture>
+
+**CSL Behring** — Project Management Co-op, Plasma, Mar–Aug 2026, King of Prussia. 122 requirements migrated, 174-item register.
+**TechTunes** — Full-Stack, Jul 2025–Feb 2026. React + FastAPI music platform, beta on Vercel, sub-100ms loads.
+**Zen Music Group** — Mar–Sep 2025. Async video pipeline, storage −60%, API errors −75%, Vertex AI Gemini.
+**Brown Brothers Harriman** — Enterprise Architecture Co-op, Apr–Sep 2024. Python ETL, Azure OpenAI chatbot, 15+ hrs/week saved, manual work −50%.
+
+Runs **Cureon** ([cureonhealth.org](https://cureonhealth.org)), a Philadelphia community connecting healthcare workers with engineers — speaking at **CureHacks**, Jan 9–10, 2027. **DragonHacks** President, Drexel IEEE — 500 hackers, Jan 16–17, 2027. **DroneDash**, OwlHacks 2025 winner. **MORPH**, gesture-controlled robot (OpenCV, MediaPipe). Co-founder, **The Foundry**.
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="svg/header-stack-light.svg">
+  <img src="svg/header-stack-dark.svg" alt="Stack" width="100%">
+</picture>
+
+`Python · C · TypeScript · Kotlin · JavaScript · React · FastAPI · AWS · Azure · Vertex AI · BLE · MCP · Raft · RESP`
+
+---
+
+Drexel University, Computer Science — graduating June 12, 2027. Seeking 2027 new-grad software engineering roles anywhere in the US. OPT from June 2027.
