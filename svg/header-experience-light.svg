@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img"><style>
+.wave{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 3.2s ease-out .3s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion: reduce){.wave{animation:none;stroke-dashoffset:0}}
+</style>
+<text x="0" y="40" font-family="Georgia,'Times New Roman',Times,serif" font-size="34" fill="#16130F">Experience &#38; <tspan font-style="italic" fill="#E4572E">community</tspan></text>
+<line x1="0" y1="56" x2="800" y2="56" stroke="#D8D2C4" stroke-width="1"/>
+<path class="wave" d="M0 6 L40 6 L48 1 L56 11 L64 6 L110 6 L118 0 L126 12 L134 6 L180 6" transform="translate(620,44) scale(0.55)" fill="none" stroke="#E4572E" stroke-width="2"/></svg>
